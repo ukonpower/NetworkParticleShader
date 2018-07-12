@@ -1,0 +1,404 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1264 outsize=1267 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1267 outsize=1069 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1254 outsize=1257 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1257 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1259 outsize=1262 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1262 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1259 outsize=1262 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1262 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1266 outsize=1269 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1269 outsize=929 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1284 outsize=1287 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1286 outsize=1289 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1289 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1290 outsize=1293 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1293 outsize=917 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1292 outsize=1295 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1294 outsize=1297 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1297 outsize=861 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1298 outsize=1301 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1301 outsize=1021 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1300 outsize=1303 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1304 outsize=1307 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1307 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1301 outsize=1304 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1304 outsize=1117 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1301 outsize=1304 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1304 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1333 outsize=1336 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1336 outsize=1121 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1331 outsize=1334 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1334 outsize=1121 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1331 outsize=1334 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1334 outsize=1069 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1331 outsize=1334 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1334 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1331 outsize=1334 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1334 outsize=1097 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1296 outsize=1299 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1299 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1304 outsize=1307 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1315 outsize=1318 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1356 outsize=1359 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1356 outsize=1359 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1359 outsize=1269 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1358 outsize=1361 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1187 outsize=111 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1512 outsize=290 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1512 outsize=222 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1512 outsize=802 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1402 outsize=1405 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1430 outsize=1433 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1424 outsize=1427 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1427 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1438 outsize=1441 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1441 outsize=1221 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1442 outsize=1445 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  error: 2 plat 4 at NetworkCompute.compute(55): 'rand': no matching 2 parameter function
+  api=4 insize=1445 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1462 outsize=1465 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1468 outsize=1471 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1471 outsize=1221 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1468 outsize=1471 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1471 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1534 outsize=1537 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1537 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1600 outsize=1603 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1597 outsize=1600 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1594 outsize=1597 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1597 outsize=1733 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1591 outsize=1594 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1594 outsize=1221 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1589 outsize=1592 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1592 outsize=1733 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1589 outsize=1592 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1592 outsize=1733 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1187 outsize=111 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1512 outsize=290 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1512 outsize=222 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1512 outsize=802 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1187 outsize=109 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1512 outsize=290 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1512 outsize=222 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1512 outsize=802 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=1187 outsize=111 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1512 outsize=290 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1512 outsize=222 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1512 outsize=802 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=1188 outsize=111 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1513 outsize=290 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1513 outsize=222 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1513 outsize=802 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1595 outsize=1598 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1588 outsize=1591 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1589 outsize=1592 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1592 outsize=1733 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1671 outsize=1674 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  error: 2 plat 4 at NetworkCompute.compute(52): 'pow': no matching 1 parameter intrinsic function; Possible intrinsic functions are: pow(float|half|min10float|min16float, float|half|min10float|min16float)
+  api=4 insize=1674 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1667 outsize=1670 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  error: 2 plat 4 at NetworkCompute.compute(52): 'pow': no matching 1 parameter intrinsic function; Possible intrinsic functions are: pow(float|half|min10float|min16float, float|half|min10float|min16float)
+  api=4 insize=1670 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1671 outsize=1674 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  error: 2 plat 4 at NetworkCompute.compute(53): syntax error: unexpected token 'if'
+  error: 2 plat 4 at NetworkCompute.compute(59): syntax error: unexpected token 'else'
+  api=4 insize=1674 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1674 outsize=1677 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1677 outsize=1221 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1673 outsize=1676 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1676 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1668 outsize=1671 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1671 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1672 outsize=1675 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1675 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1187 outsize=111 ok=1
+Cmd: preprocess
+  insize=1188 outsize=111 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1513 outsize=290 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1513 outsize=222 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=4 insize=1513 outsize=802 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1675 outsize=1678 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1678 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1676 outsize=1679 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1679 outsize=1909 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1677 outsize=1680 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1680 outsize=1221 ok=1
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1676 outsize=1679 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1679 outsize=1909 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=4 type=0 insize=11846 outsize=1258 kw=SHADOWS_SPLIT_SPHERES SHADOWS_SINGLE_CASCADE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11846 outsize=4538 kw=SHADOWS_SPLIT_SPHERES SHADOWS_SINGLE_CASCADE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler

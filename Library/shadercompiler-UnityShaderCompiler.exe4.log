@@ -1,0 +1,167 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1257 outsize=1081 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1293 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1295 outsize=917 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at NetworkCompute.compute(31): undeclared identifier '_Time'
+  api=4 insize=1303 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1304 outsize=1005 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
+  api=4 insize=1334 outsize=1125 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1359 outsize=1269 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1405 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1433 outsize=1085 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1465 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1597 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1594 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1592 outsize=1269 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at NetworkCompute.compute(18): 'basePoints': implicit array missing initial value
+  api=4 insize=1591 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1592 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1677 outsize=1909 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1676 outsize=1909 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1675 outsize=1909 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1678 outsize=1221 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
+  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
+  api=4 insize=1679 outsize=1277 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
