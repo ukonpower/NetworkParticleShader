@@ -46,15 +46,16 @@ void Emit(uint3 id : SV_DispatchThreadID)
 
 [numthreads(8,1,1)]
 void Update (uint3 id : SV_DispatchThreadID)
-{
+{   
 	Particle p = particles[id.x];
 	float limit = p.time / p.lifeTime;
 	float dis = sqrt(pow(p.start.x - p.end.x, 2) + pow(p.start.z - p.end.z, 2)) / 3;
-	if (limit <= 1) {
+    float noise = 0.05;
+    if (limit <= 1) {
 		p.time += deltaTime;
-		p.pos.x = p.start.x * (1 - limit) + p.end.x * limit + sin(limit * 3.1415) * ( 2 * rand(float2(id.x, 3)) - 1) * 0.03;
-		p.pos.z = p.start.z * (1 - limit) + p.end.z * limit + sin(limit * 3.1415) *  (2 * rand(float2(id.x, 2)) - 1) * 0.03;
-		p.pos.y = p.start.y * (1 - limit) + p.end.y * limit + sin(limit * 3.1415) * dis + sin(limit * 3.1415) *  (2 * rand(float2(id.x, 6)) - 1) * 0.03;
+		p.pos.x = p.start.x * (1 - limit) + p.end.x * limit + sin(limit * 3.1415) * ( 2 * rand(float2(id.x, 3)) - 1) * noise;
+		p.pos.z = p.start.z * (1 - limit) + p.end.z * limit + sin(limit * 3.1415) *  (2 * rand(float2(id.x, 2)) - 1) * noise;
+		p.pos.y = p.start.y * (1 - limit) + p.end.y * limit + sin(limit * 3.1415) * dis + sin(limit * 3.1415) *  (2 * rand(float2(id.x, 6)) - 1) * noise;
 	}
 	else {
 		p.active = 0;
