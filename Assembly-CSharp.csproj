@@ -62,21 +62,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\NetwordParticle.cs" />
+    <Compile Include="Assets\Scripts\NetworkParticleController.cs" />
+    <Compile Include="Assets\Scripts\NetworkParticleGenerator.cs" />
+    <None Include="Assets\Shaders\ParticleGenerator.shader" />
     <None Include="Assets\Shaders\emitShader.shader" />
     <None Include="Assets\Shaders\particlesShader.shader" />
     <None Include="Assets\Shaders\NetwordParticle.shader" />
     <None Include="Assets\Shaders\NetworkCompute.compute" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/staff/Documents/unity-projects/NetworkParticleShader/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/obshi/Documents/Unity/NetworkParticleShader/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/staff/Documents/unity-projects/NetworkParticleShader/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/obshi/Documents/Unity/NetworkParticleShader/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/staff/Documents/unity-projects/NetworkParticleShader/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/obshi/Documents/Unity/NetworkParticleShader/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/staff/Documents/unity-projects/NetworkParticleShader/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/obshi/Documents/Unity/NetworkParticleShader/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -277,10 +280,10 @@
       <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>/Users/staff/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>/Users/obshi/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>/Users/staff/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+      <HintPath>/Users/obshi/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

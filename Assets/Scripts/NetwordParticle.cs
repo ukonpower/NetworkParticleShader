@@ -3,25 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Runtime.InteropServices;
 
-public struct Particle
-{
-    public Vector3 pos;
-    public Vector3 start;
-    public Vector3 end;
-    public float time;
-    public float lifeTime;
-    public int active;
+//public struct Particle
+//{
+//    public Vector3 pos;
+//    public Vector3 start;
+//    public Vector3 end;
+//    public float time;
+//    public float lifeTime;
+//    public int active;
 
-    public Particle(Vector3 pos,Vector3 start,Vector3 end)
-    {
-        this.pos = pos;
-        this.start = start;
-        this.end = end;
-        time = 0f;
-        lifeTime = 0;
-        active = 0;
-    }
-}
+//    public Particle(Vector3 pos,Vector3 start,Vector3 end)
+//    {
+//        this.pos = pos;
+//        this.start = start;
+//        this.end = end;
+//        time = 0f;
+//        lifeTime = 0;
+//        active = 0;
+//    }
+//}
 
 public class NetwordParticle : MonoBehaviour {
 

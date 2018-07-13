@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657856, g: 0.49641234, b: 0.57481724, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -822,6 +822,7 @@ GameObject:
   - component: {fileID: 1970106000}
   - component: {fileID: 1970105999}
   - component: {fileID: 1970105998}
+  - component: {fileID: 1970106002}
   m_Layer: 0
   m_Name: Sphere (3)
   m_TagString: BaseObj
@@ -890,9 +891,24 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1970105997}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.24, y: 0.72, z: -3.303}
+  m_LocalPosition: {x: 5.32, y: 0.79, z: -3.303}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1970106002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1970105997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52d618128e74e4c19bc627d134334ae8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  receiveObj:
+  - {fileID: 860195475}
+  - {fileID: 542947608}
+  - {fileID: 687428780}
