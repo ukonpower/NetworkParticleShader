@@ -1,66 +1,15 @@
 Base path: C:/Program Files/Unity/Editor/Data
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
-  api=4 insize=1262 outsize=589 ok=1
+  api=4 insize=1595 outsize=1909 ok=1
 Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
-  api=4 insize=1262 outsize=837 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
-  error: 2 plat 4 at NetworkCompute.compute(34): 'rand': no matching 0 parameter function
-  error: 2 plat 4 at NetworkCompute.compute(34): syntax error: unexpected token ';'
-  api=4 insize=1287 outsize=0 ok=0
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
-  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
-  api=4 insize=1297 outsize=917 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(26): unknown attribute numthreads, or attribute invalid for this statement
-  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
-  api=4 insize=1301 outsize=1077 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
-  api=4 insize=1307 outsize=1061 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(31): implicit truncation of vector type
-  api=4 insize=1334 outsize=1005 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 2 plat 4 at NetworkCompute.compute(32): incorrect number of arguments to numeric-type constructor
-  api=4 insize=1307 outsize=0 ok=0
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  api=4 insize=1318 outsize=1045 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  api=4 insize=1359 outsize=1005 ok=1
-Cmd: initializeCompiler
+  api=4 insize=1572 outsize=185 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -69,38 +18,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(27): unknown attribute numthreads, or attribute invalid for this statement
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  api=4 insize=1441 outsize=1277 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  api=4 insize=1471 outsize=1221 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  api=4 insize=1603 outsize=1221 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  api=4 insize=1594 outsize=1733 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
+  api=4 insize=1516 outsize=1909 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -108,31 +26,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  error: 2 plat 4 at NetworkCompute.compute(53): syntax error: unexpected token 'if'
-  error: 2 plat 4 at NetworkCompute.compute(59): syntax error: unexpected token 'else'
-  api=4 insize=1674 outsize=0 ok=0
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: compileComputeKernel
-  error: 1 plat 4 at NetworkCompute.compute(32): implicit truncation of vector type
-  api=4 insize=1680 outsize=1909 ok=1
-Cmd: initializeCompiler
+  api=4 insize=1530 outsize=297 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
